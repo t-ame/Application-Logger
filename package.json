@@ -1,0 +1,15 @@
+{
+  "name": "@t-ame/application-logger",
+  "version": "1.0.2",
+  "description": "A package to handle all log requirements across all services",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t-ame <toya.amechi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "log4js": "6.3.0"
+  },
+  "devDependencies": {}
+}
